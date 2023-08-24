@@ -8,6 +8,7 @@ I am a student of Moscow Technical University of Communications and Informatics
 
 :coffee: My favourite programming language is Java
 
+:computer: I am working on a project that is a program written on Java and Python that can recognize people on frames of a videofile 
 <!--
 **denixx-dev/denixx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
