@@ -3,7 +3,6 @@
     <h2>Junior Java developer</h2>
     <a href=''>
     </a>
-
 </div>
 
 ### :man_technologist: About Me :
