@@ -3,6 +3,8 @@
 </h1>
 
 ### :man_technologist: About Me :
+
+I am a student of Moscow Technical University of Communications and Informatics
 <!--
 **denixx-dev/denixx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
