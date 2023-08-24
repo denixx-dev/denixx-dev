@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.ytimg.com/vi/o_2bfUFzMxw/hqdefault.jpg" width="100"/>
+  <img src="[https://i.ytimg.com/vi/o_2bfUFzMxw/hqdefault.jpg](https://www.lifeder.com/wp-content/uploads/2021/09/programa-1068x874.jpg)" width="100"/>
 </div>
 
 <!--
