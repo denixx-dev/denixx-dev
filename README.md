@@ -6,7 +6,7 @@
 
 I am a student of Moscow Technical University of Communications and Informatics
 
-#:coffee: My favourite programming language is Java
+# :coffee: My favourite programming language is Java
 
 <!--
 **denixx-dev/denixx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
