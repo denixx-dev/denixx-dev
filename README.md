@@ -6,10 +6,6 @@
 
 </div>
 
-<h1>
-  Hey there
-</h1>
-
 ### :man_technologist: About Me :
 
 I am a student of Moscow Technical University of Communications and Informatics
