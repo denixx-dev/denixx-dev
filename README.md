@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://yobte.ru/uploads/posts/2019-11/programmist-42-foto-40.jpg](https://indasil.club/uploads/posts/2022-12/1669945706_43-indasil-club-p-programmist-dlya-detei-risunok-pinterest-49.png)" width="1000"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://yobte.ru/uploads/posts/2019-11/programmist-42-foto-40.jpg](https://indasil.club/uploads/posts/2022-12/1669945706_43-indasil-club-p-programmist-dlya-detei-risunok-pinterest-49.png)" width="500"/>
 </div>
 
 <!--
