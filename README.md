@@ -1,3 +1,11 @@
+<div id ="header" align = "center">
+    <h1>Smirnov Denis</h1>
+    <h2>Junior Java developer</h2>
+    <a href=''>
+    </a>
+
+</div>
+
 <h1>
   Hey there
 </h1>
@@ -10,7 +18,7 @@ I am a student of Moscow Technical University of Communications and Informatics
 
 :computer: I am working on a project that is a program written on Java and Python that can recognize people on frames of a videofile 
 
-:mailbox: How to reach me: @thalldjenis on Telegram
+:mailbox: How to reach me: @thalldjenis on Telegram and denissm2002@yandex.ru on E-Mail
 
 ### :hammer_and_wrench: Languages and Tools :
 
