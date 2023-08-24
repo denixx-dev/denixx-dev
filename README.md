@@ -1,8 +1,6 @@
-### Hi there 👋
-
-<div id="header" align="center">
-  <img src="[https://i.ytimg.com/vi/o_2bfUFzMxw/hqdefault.jpg](https://www.lifeder.com/wp-content/uploads/2021/09/programa-1068x874.jpg)" width="500"/>
-</div>
+<h1>
+  hey there
+</h1>
 
 <!--
 **denixx-dev/denixx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
