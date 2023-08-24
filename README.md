@@ -1,7 +1,8 @@
 <h1>
-  hey there
+  Hey there
 </h1>
 
+### :man_technologist: About Me :
 <!--
 **denixx-dev/denixx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
